@@ -26,8 +26,8 @@ function Moto(marca, modelo, año, cilindrada) {
   }
 }
 
-let coche1 = new Coche("Toyota", "Corolla", 2022, 4);
-let moto1 = new Moto("Yamaha", "MT-07", 2021, 689);
+let coche1 = new Coche("Mazda", "BMW", 2024, 4);
+let moto1 = new Moto("AKT", "TTR", 2025, 180);
 
 coche1.obtenerDetalles();
 moto1.obtenerDetalles();
